@@ -4,7 +4,7 @@ Complete materials for reproducing microbiome results published in Nealon et al.
 items produced for original submission are located in the `submission/` directory <br/>
 
 items produced for the final publication are as follows: <br/>
-`Code_S1.R` = manifest creation and QIIME 2 processing
+`Code_S1.R` = manifest creation and QIIME 2 processing <br/>
 `Code_S2.R` = post QIIME 2 analysis <br/>
 `main/` = pdfs for main text figures <br/>
 `supplement/` = includes figues/tables/files for supplementary materials <br/>
