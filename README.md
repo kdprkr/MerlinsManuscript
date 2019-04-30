@@ -4,7 +4,7 @@ Complete materials for reproducing microbiome results published in Nealon et al.
 directory/file descriptions are as follows: <br/>
 `dada2/` = contains outputs for dada2 feature table construction (see: `Code_S1.R`) <br/>
 `main/` = pdfs for main text figures <br/>
-`sra/` = items relevant for submission to the Sequence Read Archive (NCBI SRA BioProject Accession [PRJNA516457](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA516457)) <br/>
+`sra/` = items relevant for submission to the NCBI Sequence Read Archive ([BioProject Accession PRJNA516457](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA516457)) <br/>
 `submission/` = items produced for original submission (pre-revisions) to *Beneficial Microbes* <br/>
 `supplement/` = includes figures/tables/files for supplementary materials <br/>
 `taxa/` = contains Greengenes/SILVA taxonomic classifications for each FeatureID (see: Code_S1.R) <br/>
