@@ -11,7 +11,7 @@ directory/file descriptions are as follows: <br/>
 `taxa/` = contains Greengenes/SILVA taxonomic classifications for each FeatureID (see: Code_S1.R) <br/>
 `vault/` = central storage for items produced by `Code_S1.R` and `Code_S2.R` <br/>
 `Code_S1.R` = manifest creation and QIIME 2 processing <br/>
-`Code_S2.R` = post QIIME 2 analysis conducted in R/R Studio <br/>
+`Code_S2.R` = post QIIME 2 analysis conducted in R <br/>
 `MerlinsManuscript.Rproj` = base of operations for running `Code_S1.R` and `Code_S2.R` in R Studio <br/>
 `MetadataFile_S1.txt` = sample metadata file <br/>
 `manifest_R1.csv` = manifest file for importing fastq files into QIIME 2 (see: `Code_S1.R`) <br/>
