@@ -8,6 +8,7 @@ doi: (INSERT FINAL INFO) <br/>
 citation: (INSERT FINAL INFO) <br/>
 
 **directory/file descriptions are as follows:** <br/>
+`class/` = contains reference sequences used to train taxonomy classifiers (see: `Code_S1.R`) <br/>
 `dada2/` = contains outputs for dada2 feature table construction (see: `Code_S1.R`) <br/>
 `main/` = pdfs for main text figures <br/>
 `raw_fastq/` = demultiplexed (individual) fastq sequence files for each sample <br/>
