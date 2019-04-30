@@ -22,4 +22,4 @@ citation: (INSERT FINAL INFO) <br/>
 `MetadataFile_S1.txt` = sample metadata file <br/>
 `manifest_R1.csv` = manifest file for importing demultplexed fastq files into QIIME 2 (see: `Code_S1.R`) <br/>
 
-A copy of the master directory with complete materials can be downloaded here: [MerlinsManuscript.tar.gz (4.8GB)](https://drive.google.com/uc?export=download&confirm=GmJu&id=1w3rJhchSeyjtWiUCoUCXveMOkqpX6bZ5) <br/>
+A copy of the master directory with complete materials can be downloaded here: [MerlinsManuscript.tar.gz [4.8GB]](https://drive.google.com/uc?export=download&confirm=GmJu&id=1w3rJhchSeyjtWiUCoUCXveMOkqpX6bZ5) <br/>
