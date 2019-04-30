@@ -3,3 +3,5 @@ Complete materials for reproducing microbiome results published in Nealon et al.
 
 items produced for submission are located in the 'submission/' directory
 items produced for the final publication are present within the master directory.
+
+raw amplicon sequence files (fastq) can be found via NCBI SRA BioProject Accession PRJNA516457
