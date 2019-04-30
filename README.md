@@ -7,8 +7,9 @@ items produced for SRA submission are located in `sra/` <br/>
 items produced for the final publication are as follows: <br/>
 `Code_S1.R` = manifest creation and QIIME 2 processing <br/>
 `Code_S2.R` = post QIIME 2 analysis <br/>
+`dada2/` = contains outputs for dada2 feature table construction (see: Code_S1.R) <br/>
 `main/` = pdfs for main text figures <br/>
 `supplement/` = includes figues/tables/files for supplementary materials <br/>
-`dada2/` = contains outputs for dada2 feature table construction (see: Code_S1.R) <br/>
+
 
 raw amplicon sequence files (fastq) can be found via NCBI SRA BioProject Accession PRJNA516457\
