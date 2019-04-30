@@ -27,4 +27,4 @@ citation: (INSERT FINAL INFO) <br/>
 
 Due to file size restrictions, a few files were unable to be uploaded into their respective locations above. To overcome this limitation, a master directory with complete materials was created, compressed, and uploaded to Google Drive. This directory can be downloaded via clicking "Download anyway" at the following: [MerlinsManuscript.tar.gz](https://drive.google.com/uc?export=download=w4JS&id=1w3rJhchSeyjtWiUCoUCXveMOkqpX6bZ5) <br/>
 
-Please contact me
+If any files cannot be located or if any links are broken, please contact me via the email listed on my profile.
