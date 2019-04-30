@@ -25,4 +25,4 @@ citation: (INSERT FINAL INFO) <br/>
 `seqs_R1_.qzv` = sequence read visualization artifact <br/>
 `seqs_R1_trim.qzv` = trimmed sequence read visualization artifact <br/>
 
-A few files were unable to be uploaded int their respective locations due to file size limitations. To overcome this restriction, a master directory with complete materials was created, compressed, and uploaded to Google Drive. This directory can be downloaded via clicking "Download anyway" at the following: [MerlinsManuscript.tar.gz](https://drive.google.com/uc?export=download=w4JS&id=1w3rJhchSeyjtWiUCoUCXveMOkqpX6bZ5) <br/>
+Due to file size restrictions, a few files were unable to be uploaded into their respective locations above. To overcome this limitation, a master directory with complete materials was created, compressed, and uploaded to Google Drive. This directory can be downloaded via clicking "Download anyway" at the following: [MerlinsManuscript.tar.gz](https://drive.google.com/uc?export=download=w4JS&id=1w3rJhchSeyjtWiUCoUCXveMOkqpX6bZ5) <br/>
