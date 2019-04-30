@@ -1,5 +1,5 @@
 # MerlinsManuscript
-Complete materials for reproducing microbiome-related results for: <br/>
+Complete materials for reproducing microbiota-related results for: <br/>
 
 **Host and gut microbial metabolism of *Bifidobacterium longum*-fermented rice bran and rice bran in healthy mice** <br/>
 Nealon et al. 2019 <br/>
