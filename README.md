@@ -20,4 +20,4 @@ citation: (INSERT FINAL INFO) <br/>
 `Code_S2.R` = post QIIME 2 analysis conducted in R <br/>
 `MerlinsManuscript.Rproj` = base of operations for running `Code_S1.R` and `Code_S2.R` in R Studio <br/>
 `MetadataFile_S1.txt` = sample metadata file <br/>
-`manifest_R1.csv` = manifest file for importing fastq files into QIIME 2 (see: `Code_S1.R`) <br/>
+`manifest_R1.csv` = manifest file for importing demultplexed fastq files into QIIME 2 (see: `Code_S1.R`) <br/>
