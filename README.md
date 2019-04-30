@@ -3,10 +3,9 @@ Complete materials for reproducing microbiome-related results for: <br/>
 
 **Host and gut microbial metabolism of *Bifidobacterium longum*-fermented rice bran and rice bran in healthy mice** <br/>
 Nealon et al. 2019 <br/>
-Journal: *Beneficial Microbes*
-doi: (INSERT FINAL INFO)
-
-citation: (INSERT FINAL INFO)
+Journal: *Beneficial Microbes* <br/>
+doi: (INSERT FINAL INFO) <br/>
+citation: (INSERT FINAL INFO) <br/>
 
 directory/file descriptions are as follows: <br/>
 `dada2/` = contains outputs for dada2 feature table construction (see: `Code_S1.R`) <br/>
