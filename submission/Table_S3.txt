@@ -1,0 +1,90 @@
+Comparison	Median log2 fold difference	Direction of increase	P	q	Greengenes	SILVA	FeatureID
+R vs C	7.194	Rice bran	0.003	0.058	Oscillospira	Ruminococcaceae	296706d01ebfa13eb32429ba7e261024
+R vs C	5.966	Rice bran	0.001	0.026	Clostridiales	A2	de002d2de3fecef1cdf35fc47494055b
+R vs C	6.402	Rice bran	0.001	0.03	Coprococcus	[Eubacterium] xylanophilum group	535eb91cab58aee2573b055664c5625c
+R vs C	5.607	Rice bran	0	0.013	Clostridiales	Clostridiales vadinBB60 group	a4c4b7b22d3dd131417466f2f49e3181
+R vs C	4.153	Rice bran	0	0.014	Clostridiales	Lachnospiraceae NK4A136 group	15ac133af11f957ad7bf0943b14a4993
+R vs C	6.392	Rice bran	0	0.014	Clostridiales	A2	f03b21b0d3b38bc8b7ab248a02d1073e
+R vs C	3.573	Rice bran	0.004	0.07	Clostridiales	Clostridiales vadinBB60 group	49188ab307c45c3e7805b241ee27a283
+R vs C	8.498	Rice bran	0.001	0.042	Lachnospiraceae	Roseburia	2d0b61d3962846ad597598bd8657bdc3
+R vs C	6.205	Rice bran	0.001	0.031	Clostridiales	Clostridiales bacterium CIEAF 020	2d0559e9488391eb0918ff0a97e14037
+R vs C	1.821	Rice bran	0.004	0.062	[Mogibacteriaceae]	Family XIII UCG-001	6291756b430613f5e90c7f3c816e78f3
+R vs C	6.212	Rice bran	0	0.017	Lachnospiraceae	Lachnospiraceae	73f14d03d440b253e6e671db77fb578a
+R vs C	7.868	Rice bran	0.002	0.045	Lachnospiraceae	Lachnospiraceae	9089217fbbc318a508cf6ca337c7eee1
+R vs C	7.957	Rice bran	0.003	0.059	Clostridiales	Lachnospiraceae bacterium COE1	714af950d876a5b1722495c2ea8f8144
+R vs C	4.852	Rice bran	0.002	0.052	Clostridiales	Lachnospiraceae NK4B4 group	243a725661674fde1c0c2afd5f24393d
+R vs C	-7.029	Control	0.007	0.09	Lachnospiraceae	Roseburia	d781b344636727c5bbd7d89192c91b74
+R vs C	-7.342	Control	0.006	0.077	Ruminococcaceae	UBA1819	ba84df5178b7257a2863c00f1e6866db
+R vs C	-7.194	Control	0.002	0.05	RF39	Mollicutes RF39	3216674258ed299ca648e540753acc50
+R vs C	-7.53	Control	0	0.012	Oscillospira	Ruminiclostridium 9	fa015d48a85d320c7084a2744186d4b3
+R vs C	-2.431	Control	0.003	0.069	Clostridiales	Blautia	d4145a4b797c890b1f5b38c3f66ea85b
+R vs C	-7.751	Control	0	0.022	Lactococcus	Lactococcus	dd599b06e0976f4b08f6ca7b6a194e36
+R vs C	-8.472	Control	0.001	0.028	Clostridiales	Lachnospiraceae NK4A136 group	97045c49b1ff5340af3f820f6fa5b3d8
+R vs C	-2.556	Control	0.003	0.063	Lachnospiraceae	Lachnoclostridium	da402f9e0542704e361381a2df159e4d
+R vs C	-5.838	Control	0.002	0.051	Dorea	Dorea	82434283f3ab53e959d51322ae902892
+R vs C	-5.8	Control	0.005	0.074	Christensenellaceae	bacterium YE57	ae7862fcca9cee5d2165a4d790465a60
+R vs C	-7.402	Control	0	0.011	Lachnospiraceae	Lachnospiraceae	99e03d98be225fc4699960359c8c86b5
+R vs C	-5.712	Control	0.003	0.057	Lachnospiraceae	Lachnospiraceae	2e028bb632768e35b6f425e8202b5ecf
+R vs C	-1.944	Control	0.004	0.078	Clostridiales	Lachnospiraceae	f2c41a9cd767b7b2a7b3cb435b46965d
+R vs C	-2.266	Control	0.005	0.085	Clostridiales	Lachnospiraceae	876bbabcbca736f299975a3bdd4dcb00
+R vs C	-1.092	Control	0.005	0.083	Clostridiales	Blautia	5c92dea32a006d670070aecdde7ea005
+F vs C	6.984	B. longum-fermented rice bran	0.003	0.048	Coprococcus	[Eubacterium] xylanophilum group	f3bc23b18d310dccb871e0bd199835df
+F vs C	7.142	B. longum-fermented rice bran	0.005	0.056	Clostridiales	Ruminococcaceae UCG-014	987dbcb89f911cc439d950eacbdda253
+F vs C	6.552	B. longum-fermented rice bran	0.005	0.057	S24-7	Muribaculaceae	b7a1f22358a59b896e562979977bed27
+F vs C	7.875	B. longum-fermented rice bran	0.001	0.021	Clostridiales	Ruminococcaceae UCG-014	53ef0b15dc79167c7f1d1fc58453a3a8
+F vs C	9.786	B. longum-fermented rice bran	0	0.01	Lachnospiraceae	Lachnospiraceae NK4A136 group	9933a4c2718564377b777be60f26ab7a
+F vs C	7.184	B. longum-fermented rice bran	0.003	0.039	Clostridiales	Ruminococcaceae UCG-014	34069c638a5a910c7aae3e9c5b2c3692
+F vs C	3.832	B. longum-fermented rice bran	0.004	0.058	Clostridiales	Lachnospiraceae NK4A136 group	15ac133af11f957ad7bf0943b14a4993
+F vs C	4.66	B. longum-fermented rice bran	0.004	0.05	Clostridiales	A2	f03b21b0d3b38bc8b7ab248a02d1073e
+F vs C	7.849	B. longum-fermented rice bran	0.002	0.038	Lachnospiraceae	Roseburia	2d0b61d3962846ad597598bd8657bdc3
+F vs C	7.38	B. longum-fermented rice bran	0.001	0.023	Lachnospiraceae	Lachnospiraceae	94027b023f2459c5ff56c842bef985f3
+F vs C	5.382	B. longum-fermented rice bran	0.005	0.054	Desulfovibrionaceae	Desulfovibrionaceae	75f0511498a8d9980046da08e834d0ae
+F vs C	10.936	B. longum-fermented rice bran	0	0.01	Lachnospiraceae	Lachnospiraceae NK4A136 group	fecb623d2bdddb1061edb6c3ccc82afb
+F vs C	6.301	B. longum-fermented rice bran	0	0.01	Clostridiales	Clostridiales bacterium CIEAF 020	2d0559e9488391eb0918ff0a97e14037
+F vs C	5.468	B. longum-fermented rice bran	0	0.01	Clostridiales	Lachnospiraceae NK4A136 group	6edd84092d413c5f6d35cee35d0157ed
+F vs C	2.467	B. longum-fermented rice bran	0.002	0.036	Lachnospiraceae	Lachnospiraceae	18f9990cead0debe91d289349481815a
+F vs C	5.463	B. longum-fermented rice bran	0	0.016	Lachnospiraceae	Lachnospiraceae	73f14d03d440b253e6e671db77fb578a
+F vs C	5.24	B. longum-fermented rice bran	0.01	0.075	Clostridiales	Lachnospiraceae NK4A136 group	47e097d03c1316eb39103e78784db466
+F vs C	4.902	B. longum-fermented rice bran	0.005	0.058	Lachnospiraceae	Lachnospiraceae	4392a93a3b2a4d9f69f9114fa039a603
+F vs C	4.66	B. longum-fermented rice bran	0.008	0.072	RF39	Mollicutes RF39	018a0d532a5669e34991e08adfa22b0b
+F vs C	7.421	B. longum-fermented rice bran	0.013	0.094	Clostridiales	Lachnospiraceae	9a10766d6406ec79ed96a9ba43da64d0
+F vs C	7.632	B. longum-fermented rice bran	0.002	0.029	Clostridiales	Lachnospiraceae	4ea0bfb9a3ded1dffee6e5e7a5b54c81
+F vs C	3.387	B. longum-fermented rice bran	0.003	0.048	Clostridiales	Lachnospiraceae NK4B4 group	243a725661674fde1c0c2afd5f24393d
+F vs C	-2.418	Control	0.009	0.089	Butyricimonas	Butyricimonas	7153ba151c06a2bb9fb02de23aa8acae
+F vs C	-6.158	Control	0	0.007	Clostridiales	Lachnospiraceae NK4A136 group	5f85e97f0e811e3cf1f9816fbcf187da
+F vs C	-7.452	Control	0.005	0.054	Ruminococcaceae	UBA1819	ba84df5178b7257a2863c00f1e6866db
+F vs C	-6.708	Control	0.011	0.09	Clostridiales	Lachnospiraceae FCS020 group	7b99c9ca2e6b76c91d076b6e4cd11544
+F vs C	-2.683	Control	0.005	0.058	Oscillospira	Ruminiclostridium 9	fa015d48a85d320c7084a2744186d4b3
+F vs C	-2.052	Control	0	0.012	Clostridiales	Lachnospiraceae	d8a8c5a1f10343068f4e3ff5ebc39e8f
+F vs C	-4.82	Control	0.001	0.028	Clostridiales	Blautia	d4145a4b797c890b1f5b38c3f66ea85b
+F vs C	-2.669	Control	0.006	0.069	Clostridiales	Lachnospiraceae bacterium DW59	a306fac7a504b50d30dbd3e9491bed15
+F vs C	-2.37	Control	0.001	0.028	Lachnospiraceae	Lachnoclostridium	e273d39d38d3994d2a07b77186ed4179
+F vs C	-2.871	Control	0.002	0.038	Lachnospiraceae	Roseburia	2945f9c76c1918088a41f25d3d8e2037
+F vs C	-4.68	Control	0.006	0.068	Lactococcus	Lactococcus	dd599b06e0976f4b08f6ca7b6a194e36
+F vs C	-2.706	Control	0.004	0.051	Clostridiales	Lachnospiraceae NK4A136 group	97045c49b1ff5340af3f820f6fa5b3d8
+F vs C	-6.028	Control	0.004	0.049	Dorea	Lachnospiraceae	c369e3202e12875a8f8b876274ee23b1
+F vs C	-4.696	Control	0	0.012	Lachnospiraceae	Lachnoclostridium	da402f9e0542704e361381a2df159e4d
+F vs C	-4.243	Control	0.001	0.025	Dorea	Dorea	82434283f3ab53e959d51322ae902892
+F vs C	-4.871	Control	0.011	0.093	Lachnospiraceae	Lachnospiraceae	d2cfc8e56cbd7d21030b9528073a03fe
+F vs C	-1.915	Control	0.004	0.05	Peptococcaceae	Peptococcus	02b6ddce123b4d16a3cf2d33c93e104f
+F vs C	-1.023	Control	0.006	0.067	Lachnospiraceae	Lachnospiraceae	dfaa69aa1b89a12bf0c27b6a8765ac32
+F vs C	-3.24	Control	0.002	0.034	Rikenellaceae	Alistipes	d42c4989050dfcf774013f5fecaca27c
+F vs C	-7.116	Control	0.012	0.097	Clostridiales	Ruminococcaceae UCG-014	61a899f8139a1e13d4ad6f42b35b4dde
+F vs C	-2.11	Control	0.004	0.053	Lachnospiraceae	Lachnospiraceae	d8a52d9c3a3683bbd1a2a2cee16fb7e8
+F vs C	-2.967	Control	0.001	0.022	rc4-4	Peptococcaceae	c2e6bda76d47d83054c25c519df7c159
+F vs C	-1.961	Control	0.001	0.021	Clostridiales	Lachnospiraceae NK4A136 group	469d2493dc15252a2bbeab093911edb9
+F vs C	-4.541	Control	0	0.012	Clostridiales	Lachnospiraceae	7f736b466d6f25bd86a926b2e6fa79ce
+F vs C	-7.183	Control	0	0.006	Lachnospiraceae	Lachnospiraceae	99e03d98be225fc4699960359c8c86b5
+F vs C	-5.268	Control	0.002	0.036	Lachnospiraceae	Lachnospiraceae	2e028bb632768e35b6f425e8202b5ecf
+F vs C	-4.957	Control	0	0.011	Clostridiales	Clostridiales vadinBB60 group	3b6620a70cf45f8d69b002267764669f
+F vs C	-7.417	Control	0	0.006	Clostridiales	Lachnospiraceae	f2c41a9cd767b7b2a7b3cb435b46965d
+F vs C	-6.306	Control	0.012	0.096	Clostridiales	Acetatifactor	c939c1babf24e41e022b89f7bf65e305
+F vs C	-3.911	Control	0.011	0.099	Clostridiales	Lachnospiraceae	876bbabcbca736f299975a3bdd4dcb00
+F vs C	-7.15	Control	0.006	0.065	Lachnospiraceae	Lachnospiraceae	143cfbe465da204a42554ecc3ca67103
+F vs C	-4.219	Control	0.001	0.025	Clostridiales	Clostridiales vadinBB60 group	b12b0210d73d132d9a575eae65b83e1f
+F vs C	-1.907	Control	0	0.01	Lachnospiraceae	Lachnospiraceae UCG-004	e96c6ee1ba7d274eeca203ac6b0a778f
+F vs C	-5.165	Control	0	0.006	Clostridiales	A2	7f6b0b9f9b4efa0c66e074da95629d12
+F vs C	-6.75	Control	0	0.006	Oscillospira	Oscillibacter	2eaa407bd4d040cf1fddebc804f9f0ea
+F vs C	-3.502	Control	0.01	0.095	Clostridiales	Lachnospiraceae	63e6749a672c3647d46a4c2bb0542215
+R vs F	8.114	Rice bran	0	0.069	Clostridiales	Clostridiales vadinBB60 group	083e6b5d9d344047f0553b3052e0ccf3
+R vs F	-7.439	B. longum-fermented rice bran	0	0.076	Lachnospiraceae	Roseburia	6bc1c99d965f0989dfcfcfeacf57ccc7
