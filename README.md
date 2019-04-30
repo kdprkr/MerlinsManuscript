@@ -1,5 +1,9 @@
 # MerlinsManuscript
-Complete materials for reproducing microbiome results published in Nealon et al. 2019 - INSERT FINAL TITLE - (Journal: INSERT FINAL JOURNAL) <br/>
+Complete materials for reproducing microbiome-related results for: <br/>
+
+Host and gut microbial metabolism of *Bifidobacterium longum*-fermented rice bran and rice bran in healthy mice <br/>
+Nealon et al. 2019 (Journal: INSERT FINAL JOURNAL) <br/>
+published in: *Beneficial Microbes*
 
 directory/file descriptions are as follows: <br/>
 `dada2/` = contains outputs for dada2 feature table construction (see: `Code_S1.R`) <br/>
