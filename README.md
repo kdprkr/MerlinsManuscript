@@ -9,8 +9,8 @@ directory/file descriptions are as follows: <br/>
 `sra/` = items relevant for submission to the Sequence Read Archive (NCBI SRA BioProject Accession PRJNA516457) <br/>
 `submission/` = items produced for original submission (pre-revisions) to Beneficial Microbes <br/>
 `supplement/` = includes figues/tables/files for supplementary materials <br/>
-`taxa/` = <br/>
-`vault/` = <br/>
+`taxa/` = (see: Code_S1.R) <br/>
+`vault/` = central storage for items produced from `Code_S1.R` and `Code_S2.R` <br/>
 `Code_S1.R` = manifest creation and QIIME 2 processing <br/>
 `Code_S2.R` = post QIIME 2 analysis <br/>
 
