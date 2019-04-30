@@ -21,3 +21,8 @@ citation: (INSERT FINAL INFO) <br/>
 `MerlinsManuscript.Rproj` = base of operations for running `Code_S1.R` and `Code_S2.R` in R Studio <br/>
 `MetadataFile_S1.txt` = sample metadata file <br/>
 `manifest_R1.csv` = manifest file for importing demultplexed fastq files into QIIME 2 (see: `Code_S1.R`) <br/>
+
+A complete copy of the master directory can be downloaded here: [MerlinsManuscript.tar.gz](https://drive.google.com/uc?id=1w3rJhchSeyjtWiUCoUCXveMOkqpX6bZ5&export=download) <br/>
+
+
+https://drive.google.com/uc?id=1w3rJhchSeyjtWiUCoUCXveMOkqpX6bZ5&export=download
