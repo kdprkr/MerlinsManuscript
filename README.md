@@ -1,5 +1,5 @@
 # MerlinsManuscript
-Complete materials for reproducing microbiota-related results for: <br/>
+This repository houses the complete materials for reproducing microbiota-related results published in: <br/>
 
 **Host and gut microbial metabolism of *Bifidobacterium longum*-fermented rice bran and rice bran in healthy mice** <br/>
 Nealon et al. 2019 <br/>
@@ -7,7 +7,7 @@ Journal: *Beneficial Microbes* <br/>
 doi: (INSERT FINAL INFO) <br/>
 citation: (INSERT FINAL INFO) <br/>
 
-directory/file descriptions are as follows: <br/>
+**directory/file descriptions are as follows:** <br/>
 `dada2/` = contains outputs for dada2 feature table construction (see: `Code_S1.R`) <br/>
 `main/` = pdfs for main text figures <br/>
 `raw_fastq/` = demultiplexed (individual) fastq sequence files for each sample <br/>
