@@ -1,4 +1,4 @@
-# MerlinsManuscript
+## MerlinsManuscript
 This repository houses the complete materials for reproducing microbiota-related results published in: <br/>
 
 ## Host and gut microbial metabolism of *Bifidobacterium longum*-fermented rice bran and rice bran in healthy mice <br/>
