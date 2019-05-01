@@ -28,7 +28,7 @@ citation: <br/>
 `seqs_R1_.qzv` = sequence read visualization artifact <br/>
 `seqs_R1_trim.qzv` = trimmed sequence read visualization artifact <br/>
 
-Due to file size restrictions, a few files were unable to be uploaded into their respective locations above. To overcome this limitation, a master directory with complete materials was created, compressed, and uploaded to Google Drive. This directory can be downloaded via clicking "Download anyway" after visiting the following [link](https://drive.google.com/uc?export=download=w4JS&id=1w3rJhchSeyjtWiUCoUCXveMOkqpX6bZ5). <br/>
+Due to file size restrictions, a few items were unable to be uploaded into their respective locations above. To overcome this limitation, the master directory with complete materials was compressed and uploaded to Google Drive. This directory can be downloaded via clicking "Download anyway" after visiting the following [link](https://drive.google.com/uc?export=download=w4JS&id=1w3rJhchSeyjtWiUCoUCXveMOkqpX6bZ5). <br/>
 
 If any files cannot be located or if any links are broken, please open an issue. <br/>
 
