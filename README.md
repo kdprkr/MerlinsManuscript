@@ -7,6 +7,8 @@ Nealon et al. 2019 <br/>
 Journal: *Beneficial Microbes* <br/>
 doi: (INSERT FINAL INFO) <br/>
 citation: (INSERT FINAL INFO) <br/>
+[pubmed link](https://github.com/kdprkr/MerlinsManuscript)) <br/>
+[journal link](https://github.com/kdprkr/MerlinsManuscript)) <br/>
 <br/>
 
 ## Overview <br/>
