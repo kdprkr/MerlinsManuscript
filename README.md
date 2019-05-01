@@ -30,6 +30,6 @@ citation: <br/>
 
 Due to file size restrictions, a few items were unable to be uploaded into their respective locations above. To overcome this limitation, the master directory with complete materials was compressed and uploaded to Google Drive. This directory can be downloaded via clicking "Download anyway" after visiting the following [link](https://drive.google.com/uc?export=download=w4JS&id=1w3rJhchSeyjtWiUCoUCXveMOkqpX6bZ5). <br/>
 
-If any files cannot be located or if any links are broken, please open an issue. <br/>
+If any files cannot be located or if any links are broken, **please open an issue**. <br/>
 
-If you have any questions regarding any items here, please contact me via the email listed on my profile. <br/>
+If you have any questions regarding any items here, **please contact me via the email listed on my profile**. <br/>
