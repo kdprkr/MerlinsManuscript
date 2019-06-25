@@ -26,7 +26,7 @@ citation: <br/>
 `Code_S1.R` = manifest creation and QIIME 2 processing <br/>
 `Code_S2.R` = post QIIME 2 analysis conducted in R <br/>
 `MerlinsManuscript.Rproj` = base of operations for running `Code_S1.R` and `Code_S2.R` in R Studio <br/>
-`MetadataFile_S1.txt` = sample metadata file <br/>
+`MetadataFile_S1.txt` = sample data file <br/>
 `manifest_R1.csv` = manifest file for importing demultplexed fastq files into QIIME 2 (see: `Code_S1.R`) <br/>
 `seqs_R1_.qzv` = sequence read visualization artifact <br/>
 `seqs_R1_trim.qzv` = trimmed sequence read visualization artifact <br/>
