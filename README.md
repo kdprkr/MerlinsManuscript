@@ -16,6 +16,8 @@ citation: <br/>
 `dada2/` = contains outputs for dada2 feature table construction (see: `Code_S1.R`) <br/>
 `main/` = pdfs for main text figures <br/>
 `raw_fastq/` = demultiplexed (individual) fastq sequence files for each sample <br/>
+`revision_01/` = items produced for revised submission (1st round) to *Beneficial Microbes* <br/>
+`revision_02/` = items produced for revised submission (2nd round) to *Beneficial Microbes* <br/>
 `sra/` = items relevant for submission to the NCBI Sequence Read Archive ([BioProject Accession PRJNA516457](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA516457)) <br/>
 `submission/` = items produced for original submission (pre-revisions) to *Beneficial Microbes* <br/>
 `supplement/` = includes figures/tables/files for supplementary materials <br/>
