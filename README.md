@@ -28,7 +28,7 @@ citation: <br/>
 `MerlinsManuscript.Rproj` = base of operations for running `Code_S1.R` and `Code_S2.R` in R Studio <br/>
 `MetadataFile_S1.txt` = sample data file <br/>
 `manifest_R1.csv` = manifest file for importing demultplexed fastq files into QIIME 2 (see: `Code_S1.R`) <br/>
-`seqs_R1_.qzv` = sequence read visualization artifact <br/>
+`seqs_R1.qzv` = sequence read visualization artifact <br/>
 `seqs_R1_trim.qzv` = trimmed sequence read visualization artifact <br/>
 
 Due to file size restrictions, a few items were unable to be uploaded into their respective locations above. To overcome this limitation, the master directory with complete materials was compressed and uploaded to Google Drive. This directory can be downloaded via clicking "Download anyway" after visiting the following [link](https://drive.google.com/uc?export=download=w4JS&id=1w3rJhchSeyjtWiUCoUCXveMOkqpX6bZ5). To setup proper file paths, download, uncompress, and move `MerlinsManuscript/` onto the `Desktop/`. <br/>
