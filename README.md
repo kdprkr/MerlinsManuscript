@@ -1,7 +1,7 @@
 ## MerlinsManuscript
 This repository houses the complete materials for reproducing microbiota-related results published in: <br/>
 
-## Health implications for dietary supplementation with *Bifidobacterium longum*-fermented rice bran and rice bran as examined through  gut microbiomes and metabolomics 
+## *Bifidobacterium longum*-fermented rice bran and rice bran supplementation affects the gut microbiome and metabolome
 Nealon et al. 2019 <br/>
 Journal: *Beneficial Microbes* <br/>
 [pubmed link ~ pending](https://github.com/kdprkr/MerlinsManuscript) <br/>
