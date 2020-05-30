@@ -1,4 +1,4 @@
-## MerlinsManuscript
+# MerlinsManuscript/
 This repository houses the complete materials for reproducing microbiota-related results published in: <br/>
 
 ## *Bifidobacterium longum*-fermented rice bran and rice bran supplementation affects the gut microbiome and metabolome
